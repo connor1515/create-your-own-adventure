@@ -1,0 +1,1 @@
+The hand grabs onto your arm and pulls you out of the snake's grasp.

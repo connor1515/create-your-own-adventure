@@ -1,1 +1,4 @@
-You have been ensnared by a snake. You have been tied up by the snake's body.
+You have been ensnared by a snake. You have been tied up by the snake's body. You see something reaching through the folds of the snake to you, it's a:
+
+
+[hand](../snake/hand/hand.md)
